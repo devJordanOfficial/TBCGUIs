@@ -1,0 +1,9 @@
+name: TBCGUIs
+version: '${project.version}'
+main: fun.tbcraft.tbcguis.Main
+api-version: 1.18
+authors: [ devJordan ]
+description: TBC GUI plugin.
+
+commands:
+  Polish:
